@@ -61,3 +61,4 @@ def app(list_tache):
 if __name__ == '__main__':
     tasks = load_tasks()
     app(tasks)
+
