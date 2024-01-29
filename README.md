@@ -12,7 +12,7 @@ On peut marquer une tâche comme fini
 ### Prérequis : 
 -Python
 ### Download files : 
-Open you terminal et saisir la commande suivante : 
+Ouvrir un terminal et saisir la commande suivante : 
 ```
 git clone https://github.com/KVTTS/Decentralization-Technologies
 ```
