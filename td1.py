@@ -40,5 +40,5 @@ def app(list_tache):
     else:
         return "Fin"
 
-if __name__ == 'main':
+if __name__ == '__main__':
     app([])
